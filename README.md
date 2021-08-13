@@ -5,7 +5,7 @@ Hello! This is a a collection of my past projects and work from my time at Miami
 
 Below is a brief overview of what can be found in the above directories.
 
-The Custodians of Oxford - This contains bits and pieces from my senior design project that I alone completed (2020 - 2021)
+<b>The Custodians of Oxford</b> - This contains bits and pieces from my senior design project that I alone completed (2020 - 2021)
 
         •	Created stand alone web-based application using HTML, CSS, Microsoft Visual Studio and C#.
 
