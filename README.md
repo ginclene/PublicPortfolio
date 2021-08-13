@@ -7,21 +7,21 @@ Below is a brief overview of what can be found in the above directories.
 
 The Custodians of Oxford - This contains bits and pieces from my senior design project that I alone completed (2020 - 2021)
 
-  •	Created stand alone web-based application using HTML, CSS, Microsoft Visual Studio and C#.
+        •	Created stand alone web-based application using HTML, CSS, Microsoft Visual Studio and C#.
 
-  •	Managed a team of 3 other programmers.
+        •	Managed a team of 3 other programmers.
 
-  •	Users book various services and subscriptions to certain services via a built-in calendar. 
+        •	Users book various services and subscriptions to certain services via a built-in calendar. 
 
-  •	Implemented filtering tools for services in the form of dynamic buttons and checkboxes.
+        •	Implemented filtering tools for services in the form of dynamic buttons and checkboxes.
 
-  •	Integrated Google Pay for users to pay online or pay on site, as specified by the client. 
+        •	Integrated Google Pay for users to pay online or pay on site, as specified by the client. 
 
-  •	Created an Admin only page for the client to access to a set of admin tools allowing him to fully customize the majority of the contents of the website.
+        •	Created an Admin only page for the client to access to a set of admin tools allowing him to fully customize the majority of the contents of the website.
 
-  •	Followed agile and scrum principles with weekly sprint meetings as a team and with the client.
+    •	Followed agile and scrum principles with weekly sprint meetings as a team and with the client.
 
-  •	Technologies I worked with include ASP.NET, C#, AWS, HTML5, JavaScript, jQuery, SQL, GitLab, Visual Studio.
+    •	Technologies I worked with include ASP.NET, C#, AWS, HTML5, JavaScript, jQuery, SQL, GitLab, Visual Studio.
 
 Java - This contains various smaller projects and assignments from school written in Java. 
 Most notably, my java catalog project completed in the Spring of 2020 (~March - May 2020) with the following characteristics:
