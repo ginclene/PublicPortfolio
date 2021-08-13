@@ -1,1 +1,9 @@
+About - The 'About' files contains the code used for the services page on the Custodians of Oxford website. It includes dynamic buttons and checkboxes that allow the user to filter the services on the page. For example, if the user pressed the 'Cleaning' button, only the services related to cleaning would appear on the page and a series of checkboxes would appear all relating to the cleaning services, in this case it would allow you to filter by room, bedroom, living room etc. that would dynamically change the shown services when checked or unchecked. Additionally for each shown service there is an accompanied price, description and add to cart button.
 
+Checkout - The checkout page is where the users can take a final look at all of the services they have added to their cart. Then, for each service they can click 'select date' which will prompt a calendar to pop up and allow the user to select a day and choose either morning or afternoon for that day. Following this for all services the users can then opt to pay on site or pay online via integrated GooglePay.
+
+DatabaseScript - The database script contains the script to create all necessary tables for the website, this includes a table for users when they create an account or login, a table for the subscriptions, services, and booked services all of which are written to and read from frequently throughout the website's usage.  
+
+Services - The Services page is a part of the admin page for the website only accessible by the owner. This page allows the owner to add/remove/adjust any and all settings regarding offered services and subscriptions.
+
+Subscription - The subscriptions page is very functionally similar to the services page and is a separate page at the request of the client in the effort to not confuse users with what they are adding to their cart. 
