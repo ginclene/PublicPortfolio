@@ -19,24 +19,24 @@ The Custodians of Oxford - This contains bits and pieces from my senior design p
 
         •	Created an Admin only page for the client to access to a set of admin tools allowing him to fully customize the majority of the contents of the website.
 
-    •	Followed agile and scrum principles with weekly sprint meetings as a team and with the client.
+        •	Followed agile and scrum principles with weekly sprint meetings as a team and with the client.
 
-    •	Technologies I worked with include ASP.NET, C#, AWS, HTML5, JavaScript, jQuery, SQL, GitLab, Visual Studio.
+        •	Technologies I worked with include ASP.NET, C#, AWS, HTML5, JavaScript, jQuery, SQL, GitLab, Visual Studio.
 
 Java - This contains various smaller projects and assignments from school written in Java. 
 Most notably, my java catalog project completed in the Spring of 2020 (~March - May 2020) with the following characteristics:
 
-  •	Created a java-based catalog application with custom GUI to mimic an online forum.
+        •	Created a java-based catalog application with custom GUI to mimic an online forum.
 
-  •	Managed a team of 3 other programmers.
+        •	Managed a team of 3 other programmers.
 
-  •	Implemented various filtering and search functions for different types of animals.
+        •	Implemented various filtering and search functions for different types of animals.
 
-  •	Implemented sorting function for any given field.
+        •	Implemented sorting function for any given field.
 
-  •	Followed agile and scrum principles with weekly sprint meetings as a team and with the client.
+        •	Followed agile and scrum principles with weekly sprint meetings as a team and with the client.
 
-  •	Technologies I worked with include Java in Eclipse, SQL.
+        •	Technologies I worked with include Java in Eclipse, SQL.
 
 In addition to this catalog project there are also files from my algorithms class where we experimented with different large object types and tested their viabilty in terms of their space usage and time complexity (Big Oh).
 
