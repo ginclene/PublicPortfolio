@@ -23,7 +23,7 @@ Below is a brief overview of what can be found in the above directories.
 
         •	Technologies I worked with include ASP.NET, C#, AWS, HTML5, JavaScript, jQuery, SQL, GitLab, Visual Studio.
 
-Java - This contains various smaller projects and assignments from school written in Java. 
+<b>Java</b> - This contains various smaller projects and assignments from school written in Java. 
 Most notably, my java catalog project completed in the Spring of 2020 (~March - May 2020) with the following characteristics:
 
         •	Created a java-based catalog application with custom GUI to mimic an online forum.
@@ -40,7 +40,7 @@ Most notably, my java catalog project completed in the Spring of 2020 (~March - 
 
 In addition to this catalog project there are also files from my algorithms class where we experimented with different large object types and tested their viabilty in terms of their space usage and time complexity (Big Oh).
 
-C++ - This contains assignments from my systems and high performance computing classes which a major emphasis on multithreading through different means and client/server communcation. 
+<b>C++</b> - This contains assignments from my systems and high performance computing classes which a major emphasis on multithreading through different means and client/server communcation. 
 
-Python - This contains my assignment to create a LISP intrepreter in python, more information and examples can be found in the directory. 
+<b>Python</b> - This contains my assignment to create a LISP intrepreter in python, more information and examples can be found in the directory. 
 
