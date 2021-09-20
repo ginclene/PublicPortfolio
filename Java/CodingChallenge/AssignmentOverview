@@ -1,0 +1,14 @@
+Below are the specifications of this coding challenge:
+
+Promotional Pricing
+Write an application that will calculate the total basket cost for a mix of items.  The pricing logic
+should handle the following items and pricing schemes:
+
+ Peaches are 75 cents each.  If you buy 4 or more the price drops to 50 cents each.  
+ Avocados are $2 and don’t go on sale.
+ Mangos are $2 each but are currently on promotion as buy one get one free.
+ 
+Write a program that can calculate the total basket cost of these items.  The program inputs should
+be how many of each item was purchased.  Inputs can come from user input, read from a file,
+passed as command-line arguments, Unit Tests, etc.  You can be flexible here.  As long as the
+program can be run and inputs can be changed.
