@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>cse383 hw10</title>
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js"               
+  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="               
+  crossorigin="anonymous"></script>
+  <script src="book.js?rev=2"></script>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+  <style>
+  html { background-color: LightCyan; }
+      .container {
+        background-color:LightCyan;
+      }
+
+      body {
+        background-color:LightCyan;
+      }
+
+      .form {
+          border: thick solid blue;
+          width: 350px;
+          height = 100px;
+          padding: 10px 20px;
+          margin: 20px;
+          float: left;
+          background-color: LightGrey;
+      }
+
+      .results {
+          border: thick solid blue;
+          width: 300px;
+          height = 300px;
+          padding: 10px 20px;
+          margin: 20px;
+          overflow: auto;
+          float: center;
+          background-color: LightGrey;
+      }
+
+      .cover {
+          border: thick solid blue;
+          margin: 20px;
+          padding: 10px 10px;
+          width: 200px;
+          height: 500px;
+          float: right;
+          text-align: center;
+          background-color: LightGrey;
+      }
+
+      .getCover {
+          color:blue;
+      }
+  </style>
+</head>
+
+<body>
+<div class="container">
+<div class="row">
+    <div class="form h-50 col-md-3 offset-md-1">
+        <form action="javascript:submit()">
+            <label for="query">Search Books: </label>
+            <input type="text" id="query" name="query">
+            <input type="button" value="Submit" onclick="submit()">
+        </form>
+    </div>
+
+    <div class="results col-md-3 offset-md-1">
+        <h2>Results:</h2>
+        <ul id="list">
+
+        </ul>
+    </div>
+
+    <div class="cover col-md-3 offset-md-1" id="coverDiv">
+        <h2 id="coverTitle"></h2>
+        <h3 id="noImage">no cover image</h3>
+        <img>
+    </div>
+</div>
+</div>
+    <script>
+$("#coverDiv").hide();
+$(document).ready(function() {
+$("#list").on("click", ".getCover", function() {
+getCover($(this).attr('isbn'));
+});
+});
+</script>
+</body>
+</html>
