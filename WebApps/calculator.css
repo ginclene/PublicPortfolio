@@ -1,0 +1,9 @@
+html {
+background-color: LightCyan;
+}
+body { background-color: LightCyan; }
+h1 { text-align: center; }
+#intro {
+text-align: left;
+}
+#calc { text-align: center; }
